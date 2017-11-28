@@ -1,4 +1,4 @@
-package googleTranslate;
+package googleSearch;
 
 import static org.junit.Assert.*;
 
